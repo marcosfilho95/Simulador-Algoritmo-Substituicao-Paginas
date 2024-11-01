@@ -56,8 +56,3 @@ O simulador será desenvolvido em linguagem de programação Java. Ele receberá
 ### Pré-requisitos
 - Java JDK 11 ou superior instalado em sua máquina.
 - Um ambiente de desenvolvimento integrado (IDE) ou um editor de texto para abrir e modificar o código, se desejado.
-
-### Instruções de Instalação
-1. **Clone o repositório**:
-   ```bash
-   git clone https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git
