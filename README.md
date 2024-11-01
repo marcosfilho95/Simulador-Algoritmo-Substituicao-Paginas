@@ -54,7 +54,7 @@ O simulador será desenvolvido em linguagem de programação Java. Ele receberá
 ## Como Usar o Simulador
 
 ### Pré-requisitos
-- Java JDK 8 ou superior instalado em sua máquina.
+- Java JDK 11 ou superior instalado em sua máquina.
 - Um ambiente de desenvolvimento integrado (IDE) ou um editor de texto para abrir e modificar o código, se desejado.
 
 ### Instruções de Instalação
