@@ -58,4 +58,5 @@ Espera-se que o simulador forneça insights sobre o desempenho relativo dos dife
 
 ### Pré-requisitos
 - Java JDK 11 ou superior instalado em sua máquina.
-- Um ambiente de desenvolvimento integrado (IDE) ou um editor de texto para abrir e modificar o código, se desejado.
+- Um ambiente de desenvolvimento integrado (IDE) ou um editor de texto para abrir e modificar o código, se desejado. Preferencialmente, utilize o Visual Studio Code, onde o código foi implementado e compilado.
+
