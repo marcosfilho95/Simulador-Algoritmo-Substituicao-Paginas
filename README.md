@@ -51,6 +51,9 @@ Sabendo que temos essas implementações, vamos criar um SIMULADOR para os princ
 ## Metodologia
 O simulador será desenvolvido em linguagem de programação Java. Ele receberá como entrada uma sequência de números inteiros representando as páginas a serem utilizadas. Em seguida, serão implementados quatro métodos correspondentes aos algoritmos de substituição. O programa calculará e apresentará o número de faltas de página para cada método.
 
+## Resultados Esperados
+Espera-se que o simulador forneça insights sobre o desempenho relativo dos diferentes algoritmos de substituição de páginas. Com base nos resultados obtidos, poderemos avaliar quais algoritmos são mais adequados para diferentes cenários e cargas de trabalho.
+
 ## Como Usar o Simulador
 
 ### Pré-requisitos
